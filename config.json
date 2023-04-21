@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["94768535137@s.whatsapp.net"],
+    "ownerNumber": ["94761138613@s.whatsapp.net"],
     "ownerName": "DINUWA LK OFFICIAL BOT",
     "instagram" : "https://instagram.com/dinuwa_lk._",
     "botName": "Pizzaa🐧-Mdོ ",
@@ -8,7 +8,7 @@
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "VdFlEL76",
-    "auto_welcomeMsg": false,
+    "auto_welcomeMsg": true,
     "auto_leaveMsg": false,    
     "autobio": true,
     "anticall": true,
